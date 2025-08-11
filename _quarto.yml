@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Growth Festival"
+  favicon: assets/favicon.svg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu:
+        - about.qmd
+        - vision.qmd
+        - href: mission.qmd
+          text: Mission
+        - href: values-and-principles.qmd
+          text: Values & Principles
+      - schedule.qmd
+
+format:
+  html:
+    theme:
+      - superhero
+    css: styles.css
+    toc: true

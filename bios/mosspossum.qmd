@@ -1,0 +1,5 @@
+---
+title: "Mosspossum"
+---
+
+![](images/mosspossum.jpg)
