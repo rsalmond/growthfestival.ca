@@ -17,11 +17,13 @@ Read all about it [here](mission.qmd).
 ## Tickets
 
 This is an invite only event, tickets are not required. That said, a whole lot
-of time, energy, and money has gone into making Growth happen and **donations
-keep this event alive**. Cash donations can be made at the festival,
+of time, energy, and money has gone into making Growth happen and [**donations
+keep this event alive**]{style="text-decoration: underline;"}. Cash donations can be made at the festival,
 and email money transfers can be sent to [donations@growthfestival.ca](mailto:donations@growthfestival.ca).
 
-At present our estimated costs are $200.00.
+::: {style="text-align: center"}
+#### Current total costs are approx. $200.00
+:::
 
 To see where the money goes, all [our expenses have been made public](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdYrmyhNATk5joTprdlClZBsyZWNICSrKLt1Ka2CIpBk5UwdqkUTZNiijrvRGv6EEVTJCjxEhmoZLc/pubhtml).
 
