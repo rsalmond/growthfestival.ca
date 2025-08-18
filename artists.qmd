@@ -1,0 +1,10 @@
+---
+title: "Artists"
+---
+
+There are many more artists sharing their work with Growth than we have listed below, but here are some of our biggest contributors!
+
+* [Alyssa Garcia](bios/alyssa-garcia.qmd)
+* [Dottie Locks](bios/dottie-locks.qmd)
+* Fern
+* ... more to come!
