@@ -1,1 +1,4 @@
 /.quarto/
+/docs/
+*.tgz
+*.swp

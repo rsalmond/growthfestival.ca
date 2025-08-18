@@ -18,6 +18,7 @@ website:
         - href: values-and-principles.qmd
           text: Values & Principles
       - schedule.qmd
+      - artists.qmd
 
 format:
   html:
