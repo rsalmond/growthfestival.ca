@@ -45,7 +45,23 @@ To see where the money goes, all [our expenses have been made public](https://do
 
 We need your help to pull this whole thing off. If you'd like to take a shift on the Vibe Check patrol or staffing the Front Gate please [sign up here](https://form.everestwebdeals.co/?form=33e83f7993e5c71b1e1d367c3f2c02f9).
 
-We'll also take as many extra hands as we can get to help us tear down on Sunday morning after breakfast.
+We're also looking to keep track of anyone who has formal CPR / first aid training, if this is you please notify the front gate at check-in.
+
+And we'lltake as many extra hands as we can get to help us tear down on Sunday morning after breakfast.
+
+## Vibe Checkers
+
+Our Vibe Check volunteers will be easily spotted in their bright yellow safety gear. If you notice anything you don't like the look of, or feel in any way uncomfortable, please report to a Vibe Checker ASAP and they will connect you with the right people.
+
+::: {#fig-vibecheck layout-ncol=2}
+
+![Full vest](assets/images/vibecheck.jpg){#fig-one}
+
+![Mini vest](assets/images/vibecheck2.jpg){#fig-two}
+
+Vibe Check uniforms.
+
+:::
 
 ## Photos
 
