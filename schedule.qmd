@@ -10,6 +10,8 @@ Our resident grill master will BBQ dinner and we will host an eclectic mix of li
 
 ### Meals
 
+> Note: all meals will be served at The Wandering Wizard Tavern & Eatery
+
 * 6:00pm Dinner with Yazzi
 
 ### Main Stage
@@ -62,7 +64,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 * 1-3pm [Sylvia Chapman](bios/sylvia-chapman.qmd): Crochet 101
 * 4-5pm [Rob Salmond](bios/rob-salmond.qmd): Being Human for Human Beings
 
-#### Kitchen and Dining Area
+#### Wandering Wizard Tavern & Eatery
 
 * 2-3pm [Jace J](bios/jace-j.qmd): From Beans to Brews - Exploring the Third Wave of Coffee
 * 4-5pm: [David Wellhauser](bios/david-wellhauser.qmd): Star Trek
@@ -98,7 +100,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 #### Main Stage
 
 * 3:30pm [Zozo](bios/zoe.qmd)
-* 4:15pm EQ8
+* 4:15pm [EQ8](bios/eq8.qmd)
 * 5:00pm Eddie
 * 5:30pm [DJ Delfine](bios/delfine.qmd)
 * 6:20pm [DJ Skinnydip](bios/skinnydip.qmd)
