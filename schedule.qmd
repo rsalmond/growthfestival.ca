@@ -77,7 +77,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 #### Thyme Patch
 
 * 2-3pm [Ali Engering](bios/ali-engering.qmd): Nature Mindfulness - A Small Taste of Forest Bathing
-* 3-4pm [Michael](images/michael.qmd): Song Circle
+* 3-4pm [Michael](bios/michael.qmd): Song Circle
 * 4-5pm [Ali Engering](bios/ali-engering.qmd): Learn To Slackline -  Zero Experience Required!
 
 #### Main Stage
