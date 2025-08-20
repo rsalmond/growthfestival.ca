@@ -2,10 +2,6 @@
 title: "Growth 2025"
 ---
 
-## Where?
-
-Sasha's place 🏠
-
 ## When?
 
 August 22nd - 24th. Check out the [full schedule](schedule.qmd).
@@ -24,7 +20,9 @@ and email money transfers can be sent to [donations@growthfestival.ca](mailto:do
 Suggested donation is $50 for the weekend (or think of it as $25 / night).
 
 ::: {style="text-align: center"}
-### Current total costs are approx. $4,050.00
+### COSTS SO FAR approx. $4,050.00
+
+#### We will be counting last minute purchases throughout the weekend.
 :::
 
 To see where the money goes, all [our expenses have been made public](https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vSdYrmyhNATk5joTprdlClZBsyZWNICSrKLt1Ka2CIpBk5UwdqkUTZNiijrvRGv6EEVTJCjxEhmoZLc/pubhtml#gid=868047919)
