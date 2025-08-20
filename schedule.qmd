@@ -49,7 +49,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 
 #### Main Stage
 
-* 10am Yoga with Nas
+* 10am Yoga with [Nas](bios/nas.qmd): No Mat? No Problems!
 * 11am [Mike Tudisco](bios/mike-tudisco.qmd): Sound Healing
 * 12pm [Michael Masurkevitch](bios/michael-masurkevitch.qmd): Meditation
 
@@ -114,7 +114,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 * 6:20pm [DJ Skinnydip](bios/skinnydip.qmd)
 * 7:10pm The Technicolour Wizard
 * 8:00pm [DJ Jace](bios/dj-jace.qmd)
-* 9:00pm Bossi Nova
+* 9:00pm [Bossi Nova](bios/bossi-nova.qmd)
 * 10:00pm [Kasia](bios/kasia.qmd)
 * 11:00pm [DJ Witch Hazel & Leon CloudJuicy](bios/witch-hazel-and-leon-cloudjuicy.qmd)
 
