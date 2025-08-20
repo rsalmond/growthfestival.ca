@@ -88,7 +88,7 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 
 #### Main Fire
 
-* 5:30pm JP: Magic Show
+* 5:30pm [JP](bios/jp.qmd): Magic Show
 * 6pm Spoken Word
   * [Jason Schattman](bios/jason-schattman.qmd)
   * [Jyoti Solanki-Davie](bios/jyoti-solanki-davie.qmd): A Forest Without Trees
@@ -114,10 +114,10 @@ Dinner will be served by one of Waterloo Region's finest private chefs. Then it'
 
 ### Meals
 
-* 9:00am Brunch
+* 8:00am Brunch
 
 ### Main Stage
 
-* 10am Yoga with [Jyoti Solanki-Davie](bios/jyoti-solanki-davie.qmd)
-* 11am Tear Down
+* 9am Yoga with [Jyoti Solanki-Davie](bios/jyoti-solanki-davie.qmd)
+* 10am Tear Down
 * 12pm Tearful Farewells
