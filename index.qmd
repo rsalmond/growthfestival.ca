@@ -2,13 +2,9 @@
 title: "Growth 2025"
 ---
 
-## When?
+## Welcome!
 
-August 22nd - 24th. Check out the [full schedule](schedule.qmd).
-
-## Why?
-
-Read all about it [here](mission.qmd).
+The crew is positively giddy to [welcome you to Growth!](welcome.qmd)
 
 ## Tickets
 
