@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: generate-gallery.ts
 
 website:
   title: "Growth Festival"
@@ -13,6 +14,8 @@ website:
         text: Welcome
       - schedule.qmd
       - artists.qmd
+      - text: Photo Galleries
+        href: galleries.qmd
 
 format:
   html:
